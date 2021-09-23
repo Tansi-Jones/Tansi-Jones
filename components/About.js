@@ -5,10 +5,13 @@ export default function About() {
         <div className="py-20">
           <p className="text-gray-400 mb-4 md:text-lg">//ABOUT ME</p>
           <p className="text-gray-800 md:text-lg py-5">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. In
-            deleniti magnam praesentium doloribus deserunt ab pariatur nulla
-            suscipit ratione. Voluptate ratione, laudantium quasi fugiat tenetur
-            quod unde aut debitis itaque?
+          Hi, I'm Tansi Jones, developer and cloud enthusiast, i've been
+            writing code for over 3 years in different languages, but ive come
+            to love JavaScript, I love its simplicity and flexibility, and with
+            the introduction of Next Js i've taken my development to the next
+            level, I'm also passionate about cloud computing am currently
+            studying AWS. I love traveling, love to discovering new things. And
+            i love playing simulations video games.
           </p>
         </div>
         <div className="justify-self-center md:justify-self-end">

@@ -30,6 +30,7 @@ export default function Home() {
 
       {/*  */}
       <section className="w-[80%] mx-auto mt-32" id="skills">
+        <p className="text-gray-400 mb-4 md:text-lg">// Technologies</p>
         <Skill />
       </section>
 
@@ -37,7 +38,7 @@ export default function Home() {
       <section className="w-[80%] mx-auto mt-32" id="work">
         <p className="text-gray-400 mb-4 md:text-lg">// MY WORK</p>
 
-        <div className="flex flex-wrap gap-x-10 gap-y-14 mt-16 mb-20">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-x-10 gap-y-14 mt-16 mb-20">
           {ProjectData.map(
             ({ img, title, description, markers, url }, index) => (
               <Work

@@ -61,7 +61,7 @@ export default function Header() {
         </div>
         {/* bottom section */}
         <div>
-          <h1 className="text-white text-4xl text-center font-bold md:text-[4rem]  lg:text-[5rem] pt-[18rem]">
+          <h1 className="text-white text-4xl text-center font-bold md:text-[4rem]  lg:text-[5rem] pt-10rem sm:pt-[18rem]">
             Hi, I'm Tansi Jones
           </h1>
           <p className="text-white text-2xl text-center mt-5  lg:mt-14">
