@@ -30,7 +30,7 @@ export default function Home() {
 
       {/*  */}
       <section className="w-[80%] mx-auto mt-32" id="skills">
-        <p className="text-gray-400 mb-4 md:text-lg">// Technologies</p>
+        <p className="text-gray-400 mb-4 md:text-lg">// TECHNOLOGIES</p>
         <Skill />
       </section>
 
