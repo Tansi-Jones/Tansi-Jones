@@ -1,7 +1,7 @@
 export default function About({ imgSrc, heading, desc, mark, link }) {
   return (
     <>
-      <div className="rounded-xl shadow-md min-w-[20rem]">
+      <div className="rounded-xl shadow-md min-w-[15rem] sm:min-w-[20rem]">
         <div className="h-52 w-full">
           <img
             className="h-full w-full rounded-t-xl object-cover"
