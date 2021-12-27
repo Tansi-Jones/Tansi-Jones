@@ -9,7 +9,7 @@ export default function Home() {
         <title>Tansi Jones</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Image src="/comingsoon.svg" layout="fill" className=" object-cover" />
+      <Image src="/bg.jpg" layout="fill" className=" object-cover" />
     </>
   );
 }
