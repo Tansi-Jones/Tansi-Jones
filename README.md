@@ -1,7 +1,7 @@
 Hi 👋 My name is Tansi Jones
 ============================
 
-Developer  
+Full Stack Developer  
 ---------------------------
 
 I've been a web developer for 5 years but I've recently found passion for blockchain and its application
